@@ -57,15 +57,12 @@ diagnostic device. State this in your presentation.
 | Colour palette | Original | — |
 
 ## AI Tools Used
-| *(e.g. Claude / ChatGPT)* | *(e.g. boilerplate scaffolding...)* |
 
+Declare these explicitly — transparency here is required, not optional.
 
 | Tool | How it was used |
 |------|-----------------|
-| *(e.g. Claude / ChatGPT)* | *(e.g. boilerplate scaffolding, copy review, debugging)* |
-| *(e.g. GitHub Copilot)* | *(e.g. autocompletion)* |
-| *(e.g. Claude / ChatGPT)* | *(e.g. boilerplate scaffolding...)* |
-
+| Arena.ai Agent Mode (AI assistant) | Architecture guidance, backend and frontend scaffolding, rule-engine logic, README and slide-copy drafting, debugging |
 
 **Original work:** the rule engine design, the screening criteria, the report
 format, the symptom vocabulary and all scenario data are the team's own work
