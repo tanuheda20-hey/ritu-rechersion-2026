@@ -57,8 +57,8 @@ diagnostic device. State this in your presentation.
 | Colour palette | Original | — |
 
 ## AI Tools Used
+| *(e.g. Claude / ChatGPT)* | *(e.g. boilerplate scaffolding...)* |
 
-Declare these explicitly — transparency here is required, not optional.
 
 | Tool | How it was used |
 |------|-----------------|
