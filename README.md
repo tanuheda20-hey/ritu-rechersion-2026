@@ -158,6 +158,17 @@ notice.
 
 ---
 
+## 👥 Team THEPLAYERS
+
+| Name | College | Role |
+|------|---------|------|
+| Muskaan Bais | Acropolis Institute of Technology and Research | Ideation & testing — product feedback, manual testing and review |
+| Neha Kakade | SKN Sinhgad College of Engineering (SSCoEKP), Korti, Pandharpur, Maharashtra | Ideation & testing — feedback on user flow and testing of the logging screens |
+| Tanu Heda | Acropolis Institute of Technology and Research | Full-stack + research — rule engine and cycle maths, FastAPI backend, React frontend, accessibility, demo scenarios, report generator |
+
+> Team of 3. Development was led end-to-end by Tanu Heda; Muskaan and Neha
+> supported with feedback and testing.
+
 ## ✅ Before you push
 
 ```bash
