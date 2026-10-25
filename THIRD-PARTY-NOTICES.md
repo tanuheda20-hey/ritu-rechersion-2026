@@ -72,7 +72,7 @@ produced during the hackathon.
 
 | Source | What was reused | Licence |
 |--------|-----------------|---------|
-| *(e.g. Stack Overflow answer — include link)* | *(function)* | CC BY-SA |
+| **None** | No external code was copied or reused. All application code was written for this project during the hackathon. | — |
 
 ---
 
