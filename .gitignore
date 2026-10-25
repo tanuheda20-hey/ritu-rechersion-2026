@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Env & secrets — NEVER commit these
+.env
+.env.local
+*.pem
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# App data
+app.db
+*.sqlite3
+uploads/
+static/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
